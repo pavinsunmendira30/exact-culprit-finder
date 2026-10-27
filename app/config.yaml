@@ -1,0 +1,6 @@
+db_timeout_seconds: 5.0
+cache_ttl_seconds: 60
+max_results: 50
+pagination_default: 20
+log_format: json_v1
+ranking_algorithm: v1

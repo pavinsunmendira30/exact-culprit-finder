@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "total_requests": 1000,
+  "buckets": [
+    { "count": 3, "min_ms": 5120, "max_ms": 5719 },
+    { "count": 417, "min_ms": 1020, "max_ms": 4440 },
+    { "count": 580, "min_ms": 80, "max_ms": 410 }
+  ]
+}
